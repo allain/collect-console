@@ -1,0 +1,25 @@
+{
+  "name": "collect-console",
+  "version": "1.0.0",
+  "description": "A library for intercepting uses of console.log",
+  "main": "collect-console.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allain/collect-console.git"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "Allain Lalonde <allain.lalonde@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allain/collect-console/issues"
+  },
+  "homepage": "https://github.com/allain/collect-console#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
