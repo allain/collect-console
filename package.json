@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/allain/collect-console#readme",
   "devDependencies": {
-    "jest": "^21.2.1"
+    "jest": "^23.1.0"
   }
 }
